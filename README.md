@@ -1,5 +1,5 @@
 # Corp-Comment
- # Example JavaScript / CSS / HTML that allows Users to Comment on their favorite or most disliked Business.
+ Example JavaScript / CSS / HTML that allows Users to Comment on their favorite or most disliked Business.
 
 ## Part of the Online ByteGrad Class
 
