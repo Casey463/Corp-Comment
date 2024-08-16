@@ -8,7 +8,7 @@ This Project was created alongside the ByteGrad Javascript class. This project i
 * Create a professional-standard CSS styled HTML page, that reacts to user events such as hovers, and uses up-to-date technology like flex-box.
 * Uses Javascript to create a system that reacts to inputs in a dynamic and consistent way, using queries to the ByteGrad "Example Job Database"
 * GET and POST data to an external API using simple but up to date fetch calls with error handling
-* Create Local "Comment Entities" and display them to to user while simultaniously POSTing the data to the API
+* Create Local "Comment Entities" and display them to to user while simultaneously POSTing the data to the API
 
 
 # How to install 
