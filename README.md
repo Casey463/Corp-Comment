@@ -13,5 +13,5 @@ This Project was created alongside the ByteGrad Javascript class. This project i
 
 # How to install 
 
-* `git clone` main or download the zip
+* `git clone` or download the zip
 * Run index.html in the dist folder with LiveServer VScode Plugin or open using preferred Browser
